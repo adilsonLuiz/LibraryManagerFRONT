@@ -1,0 +1,2 @@
+# LibraryManagerFRONT
+Front Library Manager
